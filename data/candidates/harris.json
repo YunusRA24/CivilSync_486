@@ -1,0 +1,296 @@
+[
+  {
+    "passage_id": "harris_000",
+    "candidate": "harris",
+    "text": "Chip in today to power our campaign. This link leads off-site in a new tab.\n$25\nThis link leads off-site in a new tab.\n$46\nThis link leads off-site in a new tab.\n$100\nThis link leads off-site in a new tab.\n$250\nThis link leads off-site in a new tab.\n$1000\nThis link leads off-site in a new tab. Other\nIf you’ve saved your payment information with ActBlue Express, your donation will go through immediately.",
+    "source_file": "20240722202123_kamalaharris.com_issues_.html"
+  },
+  {
+    "passage_id": "harris_001",
+    "candidate": "harris",
+    "text": "WordPress Embed\nHTML Embed\nCopy and paste this URL into your WordPress site to embed\n<blockquote class=\"wp-embedded-content\" data-secret=\"QcgPXcIqqb\"><a href=\"https://kamalaharris.com/issues/\">Issues</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://kamalaharris.com/issues/embed/#?secret=QcgPXcIqqb\" width=\"600\" height=\"400\" title=\"&#8220;Issues&#8221; &#8212; Kamala Harris for President: Official Campaign Website\" data-secret=\"QcgPXcIqqb\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n/* ]]> */\n</script>\nCopy and paste this code into your site to embed",
+    "source_file": "20240916021738_kamalaharris.com_issues_embed_.html"
+  },
+  {
+    "passage_id": "harris_002",
+    "candidate": "harris",
+    "text": "A NEW WAY FORWARD\nVice President Harris and Governor Walz are fighting for a New Way Forward that protects our fundamental freedoms, strengthens our democracy, and ensures every person has the opportunity to not just get by, but to get ahead. As a prosecutor, Attorney General, Senator, and now Vice President of the United States, Kamala Harris always stood up for the people against predators, scammers, and powerful interests. She promises to be a president for all Americans, a president who unites us around our highest aspirations, and a president who always fights for the American people.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_003",
+    "candidate": "harris",
+    "text": "From the courthouse to the White House, that has been her life’s work. BUILD AN OPPORTUNITY ECONOMY AND LOWER COSTS FOR FAMILIES\nVice President Harris grew up in a middle class home as the daughter of a working mom. She believes that when the middle class is strong, America is strong.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_004",
+    "candidate": "harris",
+    "text": "That’s why as President, Kamala Harris will create an Opportunity Economy where everyone has a chance to compete and a chance to succeed — whether they live in a rural area, small town, or big city. Vice President Kamala Harris has made clear that building up the middle class will be a defining goal of her presidency. That’s why she will make it a top priority to bring down costs and increase economic security for all Americans.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_005",
+    "candidate": "harris",
+    "text": "As President, she will fight to cut taxes for more than 100 million working and middle class Americans while lowering the costs of everyday needs like health care, housing, and groceries. She will bring together organized labor and workers, small business owners, entrepreneurs, and American companies to create good paying jobs, grow the economy, and ensure that America continues to lead the world. Read Vice President Kamala Harris’ New Way Forward for the Middle Class plan in its entirety.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_006",
+    "candidate": "harris",
+    "text": "Cut Taxes for Middle Class Families\nVice President Harris and Governor Walz believe that working families deserve a break. That’s why under their plan more than 100 million working and middle-class Americans will get a tax cut. They will do this by restoring two tax cuts designed to help middle class and working Americans: the Child Tax Credit and the Earned Income Tax Credit.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_007",
+    "candidate": "harris",
+    "text": "Through these two programs, millions of Americans get to keep more of their hard-earned income. They will also expand the Child Tax Credit to provide a $6,000 tax cut to families with newborn children. They believe no child in America should live in poverty, and these actions would have a historic impact.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_008",
+    "candidate": "harris",
+    "text": "Make Rent More Affordable and Home Ownership More Attainable\nVice President Harris has always stood up for renters and homeowners — as Attorney General of California, she took on the big banks to deliver $20 billion for middle-class families who faced foreclosure and helped pass a homeowner bill of rights, one of the first of its kind in the nation. Vice President Harris knows that a home is more than a house — it represents financial security and an opportunity to build intergenerational wealth. But for too many Americans, homeownership is too far out of reach.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_009",
+    "candidate": "harris",
+    "text": "Vice President Harris has put forward a comprehensive plan to build three million more rental units and homes that are affordable to end the national housing supply crisis in her first term. And she will cut red tape to make sure we build more housing faster and penalize firms that hoard available homes to drive up prices for local homebuyers. Vice President Harris knows rent is too high and will sign legislation to outlaw new forms of price fixing by corporate landlords.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_010",
+    "candidate": "harris",
+    "text": "As more new homes are built and affordable housing supply increases, Vice President Harris will provide first-time homebuyers with up to $25,000 to help with their down payments, with more generous support for first-generation homeowners. This will help more Americans experience the pride of homeownership and the financial security that it represents and brings — offering more Americans a path to the middle class and economic opportunity. Grow Small Businesses and Invest in Entrepreneurs\nVice President Harris and Governor Walz know that small businesses — neighborhood shops, high-tech startups, small manufacturers, and more — are the engines of our economy.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_011",
+    "candidate": "harris",
+    "text": "Just as she did as Senator and Vice President, Kamala Harris will always support small businesses and invest in entrepreneurs as president. She has led the Biden-Harris Administration’s efforts to increase access to capital for small businesses and bring venture capital to parts of middle America that have for too long been overlooked, driving a record 19 million new business applications, tripling the Small Business Administration’s lending to Black-owned businesses, and more than doubling small-dollar lending to Latino and women-owned businesses. She has also championed expanding federal contracts for minority-owned small businesses.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_012",
+    "candidate": "harris",
+    "text": "She will drive venture capital to the talent that exists all across our country including in rural areas, and increase the share of federal contract dollars going to small businesses. Take on Bad Actors and Bring Down Costs\nAs Attorney General of California, Kamala Harris took on the big banks to deliver for homeowners, stood up for veterans and students being scammed by for-profit colleges, and fought for workers and seniors who were defrauded.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_013",
+    "candidate": "harris",
+    "text": "As President, she will direct her Administration to crack down on anti-competitive practices that let big corporations jack up prices and undermine the competition that allows all businesses to thrive while keeping prices low for consumers. And she will go after bad actors who exploit an emergency to rip off consumers by calling for the first-ever federal ban on corporate price gouging on food and groceries, which will build on the anti-price gouging statutes already in place in 37 states.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_014",
+    "candidate": "harris",
+    "text": "Just as she did as Vice President, she will take on Big Pharma to lower drug prices and cap insulin costs, not just for seniors but for all Americans. And she’ll keep fighting to bring down prescription drug costs by taking on pharmacy middlemen, who raise consumers’ prices for their own gain and squeeze independent pharmacies’ profits. Strengthen and Bring Down the Cost of Health Care\nAs Attorney General of California, Kamala Harris took on insurance companies and Big Pharma and got them to lower prices.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_015",
+    "candidate": "harris",
+    "text": "Her tie-breaking vote on the Inflation Reduction Act gave Medicare the power to go toe to toe with Big Pharma and negotiate lower drug prices. As President, she’ll accelerate the negotiations to cover more drugs and lower prices for Americans. As Vice President, she also announced that medical debt will be removed from credit reports, and helped cancel $7 billion of medical debt for 3 million Americans.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_016",
+    "candidate": "harris",
+    "text": "As President, she’ll work with states to cancel medical debt for even more Americans. And Vice President Harris has led the Administration’s efforts to combat maternal mortality. Women nationwide are dying from childbirth at higher rates than in any other developed nation.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_017",
+    "candidate": "harris",
+    "text": "She will always fight to ensure that Americans can count on getting the benefits they earned. Support American Innovation and Workers\nWorking with President Biden, Vice President Harris helped pass landmark legislation — the Bipartisan Infrastructure Law, the CHIPS and Science Act, the Inflation Reduction Act, and the American Rescue Plan — that has supported more than 60,000 infrastructure projects, spurred more than $900 billion in private sector investments, and doubled investments in construction of new manufacturing facilities. This has included investing billions to help connect all Americans to accessible, affordable internet.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_018",
+    "candidate": "harris",
+    "text": "And with these investments, the Biden-Harris Administration is showing how America can meet the moment and build the industries of the future while creating high-quality union jobs in the electric vehicle and battery supply chains. As President, Kamala Harris will build on this Administration’s progress to ensure American industries and workers thrive. Vice President Harris will continue to support American leadership in semiconductors, clean energy, AI, and other cutting edge industries of the future.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_019",
+    "candidate": "harris",
+    "text": "She’ll also fight for unions, because as Vice President of the most pro-labor administration in history, she knows that unions are the backbone of the middle class. She’ll sign landmark pro-union legislation, including the PRO Act to support workers who choose to organize and bargain and the Public Service Freedom to Negotiate Act to make the freedom for public service workers to form unions the law of the land.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_020",
+    "candidate": "harris",
+    "text": "During her leadership as Vice President, unions representing those from auto workers to truck drivers to care workers won record wage increases amidst record job creation with clear support for the right to collectively bargain from the White House. Vice President Harris will not tolerate unfair trade practices from China or any competitor that undermines American workers. She’ll fight to raise the minimum wage, end sub-minimum wages for tipped workers and people with disabilities, establish paid family and medical leave, and eliminate taxes on tips for service and hospitality workers.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_021",
+    "candidate": "harris",
+    "text": "Provide a Pathway to the Middle Class Through Quality, Affordable Education\nVice President Harris will fight to ensure parents can afford high-quality child care and preschool for their children. She will strengthen public education and training as a pathway to the middle class. And she’ll continue working to end the unreasonable burden of student loan debt and fight to make higher education more affordable, so that college can be a ticket to the middle class.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_022",
+    "candidate": "harris",
+    "text": "To date, Vice President Harris has helped deliver the largest investment in public education in American history, provide nearly $170 billion in student debt relief for almost five million borrowers, and deliver record investments in HBCUs, Tribal Colleges, Hispanic-Serving Institutions, and other minority-serving institutions. She helped more students afford college by increasing the maximum Pell Grant award by $900 — the largest increase in more than a decade — and invested in community colleges.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_023",
+    "candidate": "harris",
+    "text": "She has implemented policies that have led to over one million registered apprentices being hired, and she will do even more to scale up programs that create good career pathways for non-college graduates. Invest in Affordable Child Care and Long Term Care\nVice President Harris cast the deciding vote on the American Rescue Plan, which made historic investments in the care economy.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_024",
+    "candidate": "harris",
+    "text": "As President, she will fight to lower care costs for American families, including by expanding high-quality home care services for seniors and people with disabilities and ensuring hardworking families can afford high-quality child care, all while ensuring that care workers are paid a living wage and treated with the dignity and respect they deserve. Lower Energy Costs and Tackle the Climate Crisis\nAs Attorney General, Kamala Harris won tens of millions in settlements against Big Oil and held polluters accountable.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_025",
+    "candidate": "harris",
+    "text": "As Vice President, she cast the tie-breaking vote to pass the Inflation Reduction Act, the largest investment in climate action in history. This historic work is lowering household energy costs, creating hundreds of thousands of high-quality clean energy jobs, and building a thriving clean energy economy, all while ensuring America’s energy security and independence with record energy production.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_026",
+    "candidate": "harris",
+    "text": "As President, she will unite Americans to tackle the climate crisis as she builds on this historic work, advances environmental justice, protects public lands and public health, increases resilience to climate disasters, lowers household energy costs, creates millions of new jobs, and continues to hold polluters accountable to secure clean air and water for all. As the Vice President said at the international climate conference, COP28, she knows that meeting this global challenge will require global cooperation and she is committed to continuing and building upon the United States’ international climate leadership.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_027",
+    "candidate": "harris",
+    "text": "In his words, “I did it, and I’m proud to have done it.” He even called for punishment for women who have an abortion. Since\nRoe v. Wade\nwas overturned, Vice President Harris has driven the Administration’s strategy to defend reproductive freedom and safeguard the privacy of patients and providers.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_028",
+    "candidate": "harris",
+    "text": "Stories of women miscarrying in parking lots, developing sepsis, losing the ability to ever have children again — all because doctors are afraid they may go to jail for caring for their patients. As President, she will never allow a national abortion ban to become law. And when Congress passes a bill to restore reproductive freedom nationwide, she will sign it.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_029",
+    "candidate": "harris",
+    "text": "Protect Civil Rights and Freedoms\nVice President Harris and Governor Walz believe many fundamental freedoms are at stake in this election. They will fight to ensure that Americans have the opportunity to participate in our democracy by passing the John Lewis Voting Rights and the Freedom to Vote Acts — laws that will enshrine voting rights protections, expand vote-by-mail and early voting, and more. Her Administration will also continue to protect Americans from discrimination, building on her work to secure $2 billion in funding for Offices of Civil Rights across the federal government.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_030",
+    "candidate": "harris",
+    "text": "And as President, she’ll always defend the freedom to love who you love openly and with pride. In 2004, she officiated some of the nation’s first same-sex marriages and as Attorney General, she refused to defend California’s anti-marriage equality statewide referendum. As President, she’ll fight to pass the Equality Act to enshrine anti-discrimination protections for LGBTQI+ Americans in health care, housing, education, and more into law.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_031",
+    "candidate": "harris",
+    "text": "Everyone should have the freedom to live in safe communities — that’s why Vice President Harris is fighting to keep our communities safe from gun violence and crime, secure our borders and fix our broken immigration system, tackle the opioid and fentanyl crisis, and ensure no one is above the law — including the president. Make Our Communities Safer From Gun Violence and Crime\nAs a prosecutor, Vice President Harris fought violent crime by getting illegal guns and violent criminals off California streets.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_032",
+    "candidate": "harris",
+    "text": "During her time as District Attorney, she raised conviction rates for violent offenders — including gang members, gun felons, and domestic abusers. As Attorney General, Vice President Harris built on this record, removing over 12,000 illegal guns from the streets of California and prosecuting some of the toughest transnational criminal organizations in the world. In the White House, Vice President Harris helped deliver the largest investment in public safety ever, investing $15 billion in supporting local law enforcement and community safety programs across 1,000 cities, towns, and counties.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_033",
+    "candidate": "harris",
+    "text": "President Biden and Vice President Harris encouraged bipartisan cooperation to pass the first major gun safety law in nearly 30 years, which included record funding to hire and train over 14,000 mental health professionals for our schools. As head of the first-ever White House Office of Gun Violence Prevention, she spearheaded policies to expand background checks and close the gun show loophole. Under her and President Biden’s leadership, violent crime is at a 50-year low, with the largest single-year drop in murders ever.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_034",
+    "candidate": "harris",
+    "text": "Secure Our Borders and Fix Our Broken Immigration System\nVice President Harris and Governor Walz believe in tough, smart solutions to secure the border, keep communities safe, and reform our broken immigration system. As Attorney General of California, Vice President Harris went after international drug gangs, human traffickers and cartels that smuggled guns, drugs, and human beings across the U.S.-Mexico border. As Vice President, she supported the bipartisan border security bill, the strongest reform in decades.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_035",
+    "candidate": "harris",
+    "text": "At the same time, she knows that our immigration system is broken and needs comprehensive reform that includes strong border security and an earned pathway to citizenship. Tackle the Opioid and Fentanyl Crisis\nVice President Harris is committed to ending the opioid epidemic and tackling the scourge of fentanyl. She’s seen the devastating impact of fentanyl on families up close — she has met and mourned with those who have lost loved ones to fentanyl overdoses.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_036",
+    "candidate": "harris",
+    "text": "As Attorney General, she prosecuted drug traffickers, seizing over 10,000 kilos of cocaine and 12,000 pounds of methamphetamine. In the White House, she helped direct more than $150 billion to disrupt the flow of illicit drugs and delivered billions of dollars in investments to states to fund lifesaving programs. Under the Biden-Harris Administration, the FDA made the overdose-reversal drug naloxone available over-the-counter.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_037",
+    "candidate": "harris",
+    "text": "This past year, the number of overdose deaths in the United States declined for the first time in five years. As President, she will sign the bipartisan border bill that will fund detection technology to intercept even more illicit drugs and she’ll keep fighting to end the opioid epidemic. Ensure No One Is Above the Law\nVice President Harris believes that no one is above the law.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_038",
+    "candidate": "harris",
+    "text": "He’s proven that time and time again — from caving to the gun lobby and doing nothing to address gun violence to killing the bipartisan border security deal that would secure our border and keep America safe, just to help himself politically.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_039",
+    "candidate": "harris",
+    "text": "He’ll advance his cruel immigration agenda which includes separating children from their parents. And he is refusing to commit to accepting the results of the 2024 election if he loses a second time. KEEP AMERICA SAFE, SECURE, AND PROSPEROUS\nVice President Harris will never waver in defense of America’s security and ideals.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_040",
+    "candidate": "harris",
+    "text": "As Vice President, she has confronted threats to our security, negotiated with foreign leaders, strengthened our alliances, and engaged with our brave troops overseas. As Commander In Chief, she will ensure that the United States military remains the strongest, most lethal fighting force in the world, that we unleash the power of American innovation and win the competition for the 21st century, and that we strengthen, not abdicate, our global leadership. And Vice President Harris will fulfill our sacred obligation to care for our troops and their families, and will always honor their service and their sacrifice.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_041",
+    "candidate": "harris",
+    "text": "Stand With Our Allies, Stand Up to Dictators, and Lead on the World Stage\nVice President Harris is ready to be Commander in Chief on day one. She has helped restore American leadership on the world stage, strengthened our national security through her travels to 21 countries and meetings with more than 150 world leaders, defended American values and democracy, and advanced America’s interests. Vice President Harris has been a tireless and effective diplomat on the world stage.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_042",
+    "candidate": "harris",
+    "text": "She has met with China’s Xi Jinping, making clear she will always stand up for American interests in the face of China’s threats, and traveled to the Indo-Pacific four times to advance our economic and security partnerships. She visited the Korean Demilitarized Zone to affirm our unwavering commitment to South Korea in the face of North Korean threats. Five days before Russia attacked Ukraine, she met with President Zelenskyy to warn him about Russia’s plan to invade and helped mobilize a global response of more than 50 countries to help Ukraine defend itself against Vladimir Putin’s brutal aggression.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_043",
+    "candidate": "harris",
+    "text": "And she has worked with our allies to ensure NATO is stronger than ever. Vice President Harris will never hesitate to take whatever action is necessary to protect U.S. forces and interests from Iran and Iran-backed terrorist groups. Vice President Harris will always stand up for Israel’s right to defend itself and she will always ensure Israel has the ability to defend itself.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_044",
+    "candidate": "harris",
+    "text": "She and President Biden are working to end the war in Gaza, such that Israel is secure, the hostages are released, the suffering in Gaza ends, and the Palestinian people can realize their right to dignity, security, freedom, and self-determination. She and President Biden are working around the clock to get a hostage deal and a ceasefire deal done.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_045",
+    "candidate": "harris",
+    "text": "From advising on tough decisions in the Oval Office and the Situation Room, to serving on the Senate Select Committee on Intelligence, to going after transnational criminal organizations as California’s Attorney General, Vice President Harris brings extensive national security experience — and it’s no surprise more than 350 foreign policy and national security experts have endorsed her. Invest in America’s Sources of Strength\nVice President Harris will make sure that America, not China, wins the competition for the 21st century and that we strengthen, not abdicate, our global leadership.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_046",
+    "candidate": "harris",
+    "text": "She will invest in the competitive advantages that make America the strongest nation on Earth — American workers, innovation, and industry — and will work to ensure America remains a leader in the industries of the future, from semiconductors to clean energy to artificial intelligence. She has stood up to China’s unfair economic practices to protect American workers, businesses, and families. And she has advanced our economic cooperation around the world, from rallying international leaders at an AI summit in the UK, to convening semiconductor business leaders in East Asia, to spurring private investment across Africa.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_047",
+    "candidate": "harris",
+    "text": "Support Service Members, Veterans, Their Families, Caregivers, and Survivors\nVice President Harris and Governor Walz believe we have a sacred obligation to care for our nation’s service members, veterans, their families, caregivers, and survivors. These Americans represent the bravest among us who have put their lives on the line to defend the promise of America, stand up for our values, and protect our fundamental freedoms. Vice President Harris and President Biden have delivered the most significant expansion of benefits and services for veterans exposed to burn pits, Agent Orange, and other toxic substances in more than 30 years.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  },
+  {
+    "passage_id": "harris_048",
+    "candidate": "harris",
+    "text": "The son of an Army veteran who served as a command sergeant major, Governor Walz was the ranking member on the House Veterans Affairs Committee, where he passed legislation to help stem veterans’ suicides. They will fight to end veteran homelessness, investing in mental health and suicide prevention efforts, and eliminating barriers to employment and expanding economic opportunity for military and veteran families. A Harris-Walz Administration will continue to ensure that service members, veterans and their families receive the benefits they have earned.",
+    "source_file": "20241009192246_kamalaharris.com_issues.html"
+  }
+]

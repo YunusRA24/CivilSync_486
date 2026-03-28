@@ -1,0 +1,109 @@
+{% extends "base.html" %}
+{% block title %}Your Results{% endblock %}
+
+{% block content %}
+<section class="card">
+    <h2>Your Results</h2>
+
+    <div class="chart-container">
+        <canvas id="resultsChart"></canvas>
+    </div>
+
+    <div class="reveal-section">
+        <h3>Candidate Reveal</h3>
+        <div class="reveal-grid">
+            <div class="reveal-card">
+                <span class="reveal-label">Candidate A</span>
+                <span class="reveal-name">{{ reveal.A }}</span>
+            </div>
+            <div class="reveal-card">
+                <span class="reveal-label">Candidate B</span>
+                <span class="reveal-name">{{ reveal.B }}</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="alignment-section">
+        <h3>Your Alignment</h3>
+        <div class="alignment-bars">
+            {% for name, pct in percentages.items() %}
+            <div class="alignment-row">
+                <span class="alignment-name">{{ name }}</span>
+                <div class="alignment-bar-track">
+                    <div class="alignment-bar-fill {% if loop.index0 == 0 %}bar-blue{% else %}bar-red{% endif %}"
+                         style="width: {{ pct }}%"></div>
+                </div>
+                <span class="alignment-pct">{{ pct }}%</span>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div class="details-section">
+        <h3>Issue-by-Issue Breakdown</h3>
+        <table class="results-table">
+            <thead>
+                <tr>
+                    <th>Issue</th>
+                    <th>Importance</th>
+                    <th>Your Choice</th>
+                    <th>Candidate</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for r in topic_results %}
+                <tr>
+                    <td>{{ r.topic }}</td>
+                    <td>{{ r.weight }}</td>
+                    <td>Candidate {{ r.chosen }}</td>
+                    <td>{{ r.candidate }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <a href="{{ url_for('main.topics') }}" class="btn-primary" style="display: inline-block; margin-top: 2rem;">Start Over</a>
+</section>
+
+<script>
+    const ctx = document.getElementById('resultsChart').getContext('2d');
+    new Chart(ctx, {
+        type: 'doughnut',
+        data: {
+            labels: {{ chart_labels | tojson }},
+            datasets: [{
+                data: {{ chart_data | tojson }},
+                backgroundColor: {{ chart_colors | tojson }},
+                borderColor: '#ffffff',
+                borderWidth: 2,
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: {
+                    position: 'right',
+                    labels: {
+                        font: { size: 14 },
+                        padding: 16,
+                    }
+                },
+                title: {
+                    display: true,
+                    text: 'Your Political Alignment by Issue',
+                    font: { size: 18 },
+                    padding: 20,
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(ctx) {
+                            return ctx.label + ': Importance ' + ctx.raw;
+                        }
+                    }
+                }
+            }
+        }
+    });
+</script>
+{% endblock %}
