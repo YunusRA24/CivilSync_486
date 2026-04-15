@@ -1,0 +1,37 @@
+Guns: gun, firearm, shooting, rifle, pistol, nra, 2nd amendment, second amendment
+
+Abortion: abortion, reproductive, fetus, unborn, pregnancy, roe v, planned parenthood
+
+Immigration: immigration, immigrant, border, asylum, deport, migrant, visa, citizenship, daca
+
+Healthcare: healthcare, medicare, medicaid, insurance, drug, prescription, hospital, coverage, medical
+
+Taxes: tax, irs, income, corporate, capital gains, wealth
+
+Economy: economy, inflation, unemployment, job, wage, gdp, recession, business
+
+Climate: climate, carbon, emission, energy, fossil, renewable, environment, green
+
+Education: education, school, student, teacher, tuition, loan, curriculum, college
+
+National Security: military, defense, security, terrorism, intelligence, homeland
+
+Foreign Policy: foreign, nato, china, russia, trade, diplomacy, sanction
+
+Crime: crime, police, prison, incarceration, sentencing, bail, justice
+
+Voting: vote, election, ballot, voter, district, gerrymander
+
+LGBTQ: lgbt, gay, transgender, gender, equality
+
+Social Security: social security, retirement, pension, entitlement
+
+Minimum Wage: wage, labor, union, worker
+
+Energy: oil, gas, drilling, fracking, nuclear, power
+
+Housing: housing, rent, mortgage, zoning, homelessness, property
+
+Student Debt: debt, loan, forgiveness, tuition
+
+Technology: technology, tech, data, privacy, antitrust, social media, ai
