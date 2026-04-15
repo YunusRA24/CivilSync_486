@@ -28,10 +28,10 @@ Social Security: social security, retirement, pension, entitlement
 
 Minimum Wage: wage, labor, union, worker
 
-Energy: oil, gas, drilling, fracking, nuclear, power
+Energy: oil, gas, drilling, fracking, power, power plant
 
 Housing: housing, rent, mortgage, zoning, homelessness, property
 
 Student Debt: debt, loan, forgiveness, tuition
 
-Technology: technology, tech, data, privacy, antitrust, social media, ai
+Technology: technology, tech, data, privacy, antitrust, social media, artificial intelligence
